@@ -1,0 +1,29 @@
+.footer {
+    background-color: none;
+    box-shadow: none;
+    text-align: left;
+    font-weight: bolder;
+    width: 100%;
+}
+
+.mfooter {
+    width: 100%;
+    margin-left: 10px;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.mmfooter {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social-media {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "instafarms-14ba5",
+    "instafarms": "instafarms-14ba5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
